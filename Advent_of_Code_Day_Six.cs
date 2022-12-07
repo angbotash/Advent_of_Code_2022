@@ -1,6 +1,6 @@
 ﻿namespace Advent_of_Code_Day_Six
 {
-    public class Advent_of_Code_Day_Six
+    public class Program
     {
         public static void Main()
         {
